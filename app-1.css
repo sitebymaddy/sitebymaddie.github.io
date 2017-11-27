@@ -1,0 +1,20 @@
+header{
+    text-align: center; 
+    background: url("https://images.unsplash.com/photo-1442876906995-6761040d1f0b?auto=format&fit=crop&w=1100&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D"); 
+    padding: 20px 0px 0px 0px 0px;   
+    color: #83A8C5
+} 
+
+body { 
+    margin: 0; 
+    padding:0; 
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif
+    color: #444; 
+    background-color:#b2d7ff;
+ }
+
+ a{ 
+     color: #CF9AEF;
+    
+    
+ }
