@@ -2,7 +2,7 @@ header{
     text-align: center; 
     background: url("https://images.unsplash.com/photo-1500320821405-8fc1732209ca?auto=format&fit=crop&w=1350&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D"); 
     padding: 20px 0px 0px 0px 0px;   
-    color: #D3D3D3
+    color: #778899
 } 
 
 body { 
@@ -13,7 +13,7 @@ body {
  }
 
  a{ 
-     color: #D3D3D3;
+     color: #778899;
     
     
  }
